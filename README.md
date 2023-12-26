@@ -40,5 +40,5 @@ Agile Methodologies:
   - Learned about DevOps and its integration into the software development lifecycle.
 
 Final Project:
-  - Reviewed key concepts and applied knowledge in final projects.
-  - Participated in course evaluations, reflecting on the learning experience.
+  - Reviewed key concepts and applied knowledge in final project.
+  - Worked with a Scrum team and took Scrum Master initiative to reach priority deadlines.
