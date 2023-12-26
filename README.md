@@ -5,9 +5,9 @@ Brief Summary of Java Concepts Learned:
 Throughout this course, I learned a range of skills central to software engineering, mainly focusing on Java programming. I went through various essential software engineering practices to get a comprehensive understanding. Here's a summary of the key concepts that I believed were beneficial for getting practical skills, theoretical knowledge, and overall, essential understandings in software development.
 
 Introduction to Software Engineering and Java:
-Gained foundational knowledge about software engineering principles.
-Learned the basics of Java programming and its application in software development.
-Explored the concept of version control and its importance in managing code changes.
+  - Gained foundational knowledge about software engineering principles.
+  - Learned the basics of Java programming and its application in software development.
+  - Explored the concept of version control and its importance in managing code changes.
 
 Object-Oriented Design and Testing:
 Delved into object-oriented design, focusing on designing single classes.
