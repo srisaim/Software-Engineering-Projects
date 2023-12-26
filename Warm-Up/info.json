@@ -1,0 +1,12 @@
+{
+    "course ID": "CS 410",
+    "course name": "Introduction to Software Engineering",
+    "name": "Sri Sai M. Valluru",
+    "major": "Computer Science",
+    "PLs": ["Java, Python, C Programming, Racket, Swift, HTML"],
+    "400-level prerequisite": "CS 310 or Any 400-Level CS Course",
+    "favorite algorithm": "Depth First Search Algorithm",
+    "favorite data structure": "Stacks or Queue",
+    "CS interests": ["App Development, Creating Programs, Testing Programs"],
+    "non-CS interests": ["Basketball, Gym, Gaming, Food"]
+}

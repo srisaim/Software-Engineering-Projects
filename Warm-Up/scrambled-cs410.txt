@@ -1,0 +1,11 @@
+srisaim@Sais-MacBook-Pro-2 Scrambler % jshell --class-path out/
+
+|  Welcome to JShell -- Version 18.0.2.1
+|  For an introduction type: /help intro
+
+jshell> import cs410.Scrambler;
+
+jshell> Scrambler.scramble("Software Engineering", 410);
+$2 ==> -2513267325801900560
+
+jshell> 
