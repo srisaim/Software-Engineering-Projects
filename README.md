@@ -1,2 +1,2 @@
-# CS410-Java Projects
+# CS410-Java
 Introduction to Software Engineering
