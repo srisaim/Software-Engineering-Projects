@@ -1,7 +1,6 @@
 # CS410 Java Projects
-Introduction to Software Engineering
+Introduction to Software Engineering:
 
-Brief Summary of Java Concepts Learned:
 Throughout this course, I learned a range of skills central to software engineering, mainly focusing on Java programming. I went through various essential software engineering practices to get a comprehensive understanding. Here's a summary of the key concepts that I believed were beneficial for getting practical skills, theoretical knowledge, and overall, essential understandings in software development.
 
 Introduction to Software Engineering and Java:
